@@ -3,11 +3,11 @@
 </template>
 <script>
 export default {
-    // data(){
-    //     return{
-    //         name:"Henry"
-    //     }
-    // },
+    data(){
+        return{
+            name:"Henry"
+        }
+    },
     //进入组件之前
     // beforeRouteEnter: (to,from,next)=>{
     //     //alert("Hello" + this.name);
