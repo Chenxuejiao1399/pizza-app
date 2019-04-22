@@ -5,7 +5,8 @@
 export default {
     data(){
         return{
-            name:"Henry"
+            name:"Henry",
+			sex:"男"
         }
     },
     //进入组件之前
